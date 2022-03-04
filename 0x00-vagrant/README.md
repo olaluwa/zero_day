@@ -1,1 +1,3 @@
-When the 'uname' command is run without any option then it prints just the kernel name.
+*Emphasize* _emphasize_
+**Strong** __Strong__
+This file is mandatory in projects
